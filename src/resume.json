@@ -1,178 +1,260 @@
 {
   "basics": {
-    "name": "Jonathan Bloomer",
-    "label": "Lead Front End Developer",
-    "picture": "./profilePhoto.jpg",
-    "email": "jonbloomer@gmail.com",
-    "phone": "0403933281",
-    "website": "http://freaksauce.com",
-    "summary": "Over the past 16 years I have continuously challenged myself with new languages, frameworks and methodologies. My core languages have always been html, css & javascript but I have also worked as a full stack php developer building both bespoke CMS solutions and small business applications. My current role at IAG is Front End Lead for a small React team and have been developing with React and Redux for the past 2 years.",
+    "name": "Justin Nguyen",
+    "label": "Solution Architect",
+    "picture": "./justin.jpeg",
+    "email": "tuan3.nguyen@gmail.com",
+    "phone": "+84",
+    "website": "http://justindannguyen.github.io",
+    "summary": "People find me to be a challenge taker, perfection and result orientated team player with excellent technical skills. For the past several years I have worked not only in various domain from automotive, thermotechnik to smartcity and building technologies but also in many countries. Furthermore, I have continuously challenged myself with new languages, frameworks and methodologies e.g. my core language has always been JAVA but I have also worked as a full stack developer in building all software layers e.g. application, cloud and edge software. Recently, I find myself interested in IoT solutions where billion things are connected and exchange information over internet for real time analytic and batch processing",
     "location": {
-      "address": "Sutherland",
-      "postalCode": "2232",
-      "city": "Sydney",
-      "countryCode": "Aus",
-      "region": "NSW"
+      "address": "364 Cong Hoa St, Tan Binh",
+      "postalCode": "70000",
+      "city": "Ho Chi Minh",
+      "countryCode": "Vietnam",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "jonbloomer",
-        "url": ""
+        "network": "Linkedin",
+        "username": "tuan3nguyen",
+        "url": "https://www.linkedin.com/in/tuan3nguyen"
       },
       {
         "network": "Github",
-        "username": "freaksauce",
+        "username": "justindannguyen",
         "url": ""
+      },
+      {
+        "network": "Youtube",
+        "username": "justindannguyen",
+        "url": "https://www.youtube.com/channel/UC3Oen1UmQR6uXgNvjD8KjNw"
       }
     ]
   },
   "work": [
     {
-      "company": "IAG",
-      "position": "Lead Front End Developer",
-      "website": "http://nrma.com.au",
-      "startDate": "2016-08-01",
+      "company": "Robert Bosch Engineering Vietnam",
+      "position": "Solution Architect",
+      "website": "https://www.bosch.com.vn/en/",
+      "startDate": "2014-01-01",
       "endDate": "",
-      "summary": "I am currently working as a lead front end developer on a small React team building Insurance applications and I am across multiple applications that have been built or are being built using our new development stack. IAG are keen to utilise the latest front end technologies and we have had great success as a team using React/Redux running on a Node Express server and using an API backend architecture to access the various IAG systems. We are striving to increase the quality of our projects with good test coverage and code reviews and improving our continuous integration practices.",
+      "summary": "I am currently working as Solution Architect in building Smart City/Campus solutions and provide Smart solutions Consultant for Asean market. ",
       "highlights": []
     },
     {
-      "company": "Pacific Magazines",
-      "position": "Senior Front End Developer",
+      "company": "Atlassian",
+      "position": "Team Lead",
       "website": "",
-      "startDate": "2016-03-01",
-      "endDate": "2016-08-01",
-      "summary": "During my time at Pacific Magazines I worked on a couple of large React applications using React/Redux to integrate with a .NET MVC Application.",
+      "startDate": "2015-07-01",
+      "endDate": "2015-07-21",
+      "summary": "JIRA for Software team",
       "highlights": []
     },
     {
-      "company": "IAG",
-      "position": "UI Developer",
-      "website": "http://nrma.com.au",
-      "startDate": "2014-11-01",
-      "endDate": "2016-03-01",
-      "summary": "Working as a UI developer as part of IAG Labs developing html/css/javascript solutions to integrate with the backend systems for the online quoting applications.",
+      "company": "Robert Bosch Engineering Vietnam",
+      "position": "Team Lead",
+      "website": "https://www.bosch.com.vn/en/",
+      "startDate": "2012-06-01",
+      "endDate": "2014-01-01",
+      "summary": "",
       "highlights": []
     },
     {
-      "company": "Reactive",
-      "position": "Front End Developer",
-      "website": "",
-      "startDate": "2014-09-01",
-      "endDate": "2014-11-30",
-      "summary": "At Reactive I was responsible for working with a .NET team to deliver templates using javascript/sass/grunt and handlebars. I also had exposure to TFS for source control.",
+      "company": "Aricent Group",
+      "position": "Senior Java Developer",
+      "website": "https://www.aricent.com/",
+      "startDate": "2011-11-01",
+      "endDate": "2012-06-01",
+      "summary": "",
       "highlights": []
     },
     {
-      "company": "City of Sydney Council",
-      "position": "Front End Developer",
-      "website": "",
-      "startDate": "2014-05-01",
-      "endDate": "2014-08-31",
-      "summary": "For City of Sydney I was a Front End Developer working with Wordpress on multiple key websites such as Sydneynewyearseve.com.au. All code was developed using LESS and Bootstrap for a consistent responsive interface.",
+      "company": "balticERP",
+      "position": "Senior Java Developer",
+      "website": "http://www.balticerp.de/lv",
+      "startDate": "2009-12-01",
+      "endDate": "2011-11-01",
+      "summary": "",
       "highlights": []
     },
     {
-      "company": "Self Employed",
-      "position": "Freelance Web Developer",
-      "website": "",
-      "startDate": "2010-03-01",
-      "endDate": "2014-05-01",
-      "summary": "As a freelance web developer I mainly concentrated on building bespoke CMS solutions for agencies using Wordpress. As a full stack developer my responsibilities included setting up hosting, domains, databases and delivering an easy to use custom Wordpress theme with Advanced Custom Fields and toward the latter end of my freelance venture, responsive layouts.",
-      "highlights": []
-    },
-    {
-      "company": "Soap Creative",
-      "position": "Senior Web Developer",
-      "website": "http://soapcreative.com",
-      "startDate": "2006-07-01",
-      "endDate": "2010-03-01",
-      "summary": "At SOAP I was required to carry out full stack duties across a broad range of projects including php/MySQL with front end technologies ranging from html/css to Flash.",
-      "highlights": []
-    },
-    {
-      "company": "M&C Saatchi",
-      "position": "Web Developer",
-      "website": "http://mcsaatchi.com.au/",
-      "startDate": "2006-05-01",
-      "endDate": "2006-08-31",
-      "summary": "Flash development with xml & amfphp for php/mysql integration.",
-      "highlights": []
-    },
-    {
-      "company": "Wunderman/GPY&R",
-      "position": "Web Developer",
-      "website": "http://www.gpyr.com.au/",
-      "startDate": "2005-07-01",
-      "endDate": "2006-05-01",
-      "summary": "Flash developer using xml & amfphp, html/css with php/mysql backend integration and CMS development.",
-      "highlights": []
-    },
-    {
-      "company": "Federal Publishing Company",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2004-07-01",
-      "endDate": "2005-03-31",
-      "summary": "Lead web developer on homehound.com.au, html/css/javascript development with php & SQL server integration.",
+      "company": "FPT Software",
+      "position": "Java Developer",
+      "website": "https://www.fpt-software.com/",
+      "startDate": "2008-06-01",
+      "endDate": "2009-12-01",
+      "summary": "",
       "highlights": []
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "Birmingham Conservatoire",
-      "area": "Music",
-      "studyType": "Bachelor (hons)",
-      "startDate": "1994-08-01",
-      "endDate": "1998-07-01",
+      "institution": "University of Greenwich",
+      "area": "Computing",
+      "studyType": "Bachelor",
+      "startDate": "2010-06-01",
+      "endDate": "2012-06-01",
       "gpa": "",
       "courses": []
+    },
+    {
+      "institution": "University of Technical Education",
+      "area": "Electrical Education",
+      "studyType": "Bachelor",
+      "startDate": "2003-06-01",
+      "endDate": "2008-12-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "certifications": [
+    {
+      "institution": "Mark Liew Coaching",
+      "area": "Performance and Competence Management",
+      "studyType": "Softskill"
+    },
+    {
+      "institution": "Mark Liew Coaching",
+      "area": "Communication and Conflict Management",
+      "studyType": "Softskill"
+    },
+    {
+      "institution": "Mark Liew Coaching",
+      "area": "Staffing",
+      "studyType": "Softskill"
+    },
+    {
+      "institution": "Bosch",
+      "area": "Project Management for Executives",
+      "studyType": "Softskill"
+    },
+    {
+      "institution": "G&H Management Services",
+      "area": "Effective Presentation and Communication",
+      "studyType": "Softskill"
+    },
+    {
+      "institution": "G&H Management Services",
+      "area": "Effective Negotiation & Conflict Management",
+      "studyType": "Softskill"
+    },
+    {
+      "institution": "TUV Nord",
+      "area": "Internal Auditor",
+      "studyType": "Softskill"
+    },
+    {
+      "institution": "SRI Training",
+      "area": "Effective Interviewing",
+      "studyType": "Softskill"
+    },
+    {
+      "institution": "Aptech Ltd.",
+      "area": "Software Engineer",
+      "studyType": "Higher Diploma,"
+    },
+    {
+      "institution": "NIIT",
+      "area": "3D Game Development",
+      "studyType": "Higher Diploma,"
     }
   ],
   "awards": [],
   "publications": [],
   "skills": [
     {
-      "name": "Front End Development",
+      "name": "Application",
       "level": "Master",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "ES2015",
-        "jQuery",
-        "Typescript",
-        "Meteor",
-        "React",
-        "Handlebars",
-        "SASS",
-        "LESS",
-        "Gulp",
-        "Grunt",
-        "Babel",
-        "Bootstrap",
-        "Semantic UI",
-        "Material css",
-        "Node",
-        "php",
+        "Android",
+        "Java",
+        "Python",
+        "ES6",
+        "ReactJS",
+        "ReactNative",
+        "Redux",
+        "Angular",
+        "NodeJS"
+      ]
+    },
+    {
+      "name": "Cloud",
+      "level": "Master",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Microservices",
+        "Kafka",
+        "Spark",
+        "Tensorflow",
+        "MongoDB",
         "MySQL",
+        "Spring",
+        "Spring Cloud"
+      ]
+    },
+    {
+      "name": "Protocol",
+      "level": "Master",
+      "keywords": ["MQTT", "TCP/IP", "Modbus", "Zigbee", "LoRa", "NFC", "BLE"]
+    },
+    {
+      "name": "Teamwork",
+      "level": "Master",
+      "keywords": [
+        "DevOps",
+        "Agile",
+        "Scrum",
+        "Kanban",
         "Git",
-        "Jira",
-        "Responsive"
+        "JIRA",
+        "Confluence",
+        "Jenkins",
+        "Sonar"
+      ]
+    },
+    {
+      "name": "Managerial",
+      "level": "Master",
+      "keywords": [
+        "Planning",
+        "Cost Control",
+        "Quality Control",
+        "Coaching",
+        "Scheduling",
+        "Leadership",
+        "Risk Management"
+      ]
+    },{
+      "name": "Machine Learning",
+      "level": "Master",
+      "keywords": [
+        "Prediction",
+        "Tensorflow",
+        "ANPR",
+        "Facial Recognition"
       ]
     }
   ],
   "languages": [
     {
+      "language": "Vietnamese",
+      "fluency": "Native"
+    },
+    {
       "language": "English",
-      "fluency": "Native speaker"
+      "fluency": "Fluency"
     }
   ],
   "interests": [
     {
-      "name": "Guitar",
+      "name": "Swimming",
+      "keywords": []
+    },
+    {
+      "name": "Game",
       "keywords": []
     }
   ],

@@ -1,9 +1,11 @@
-import React, { PropTypes } from 'react';
+import React from 'react';
+import PropTypes from 'prop-types'
 import Profile from './Profile';
 import About from './About';
 import Work from './Work';
 import Skills from './Skills';
 import Education from './Education';
+import Certification from './Certification';
 
 const App = props => {
   const profileData = props.jsonObj.basics;
@@ -11,6 +13,7 @@ const App = props => {
   const workData = props.jsonObj.work;
   const skillsData = props.jsonObj.skills;
   const educationData = props.jsonObj.education;
+  const certificationData = props.jsonObj.certifications
   // console.log(profileData)
   return (
           <div className="container">
@@ -26,6 +29,7 @@ const App = props => {
                   <Work workData={workData} />
                   <Skills skillsData={skillsData} />
                   <Education educationData={educationData} />
+                  <Certification certificationData={certificationData} />
                 </div>
               </main>
             </div>

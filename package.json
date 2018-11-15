@@ -2,6 +2,7 @@
   "name": "React-Resume-ES6-Webpack",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://justindannguyen.github.io/about/",
   "devDependencies": {
     "autoprefixer": "6.5.1",
     "babel-core": "6.17.0",
@@ -32,6 +33,7 @@
     "font-awesome": "^4.7.0",
     "font-awesome-webpack-sass": "0.0.3",
     "fs-extra": "0.30.0",
+    "gh-pages": "^1.2.0",
     "gzip-size": "3.0.0",
     "html-webpack-plugin": "2.24.0",
     "http-proxy-middleware": "0.17.2",
@@ -63,7 +65,8 @@
   "scripts": {
     "start": "node scripts/start.js",
     "build": "node scripts/build.js",
-    "test": "node scripts/test.js --env=jsdom"
+    "test": "node scripts/test.js --env=jsdom",
+    "deploy": "gh-pages -d build"
   },
   "jest": {
     "moduleFileExtensions": [

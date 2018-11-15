@@ -7,8 +7,8 @@ const Education = props => {
   		const enddate = moment(item.endDate).format('MMM, YYYY');
   		return (
           <div key={index}>
-            <h3>{item.studyType} {item.area}</h3>
-  				  <h4>{item.institution}</h4>
+  				  <h3>{item.institution}</h3>
+            <h4>{item.studyType}, {item.area}</h4>
   				  <p>Studied: {startdate} - {enddate}</p>
   				</div>
         )
@@ -16,7 +16,7 @@ const Education = props => {
 
   	return (
   	  <section className="education">
-        <h2 className="text-uppercase"><i className="fa fa-lg fa-mortar-board"></i> Education</h2>
+        <h2 className="text-uppercase"><i className="fa fa-lg fa-university"></i> Education</h2>
         {getEducation}
       </section>
   	)
