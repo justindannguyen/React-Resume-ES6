@@ -1,20 +1,24 @@
 {
   "basics": {
-    "name": "Justin Nguyen",
+    "name": "Tuan Nguyen (Justin)",
     "label": "Solution Architect",
     "picture": "./justin.jpeg",
     "email": "tuan3.nguyen@gmail.com",
     "phone": "+84",
     "website": "http://justindannguyen.github.io",
-    "summary": "People find me to be a challenge taker, perfection and result orientated team player with excellent technical skills. For the past several years I have worked not only in various domain from automotive, thermotechnik to smartcity and building technologies but also in many countries. Furthermore, I have continuously challenged myself with new languages, frameworks and methodologies e.g. my core language has always been JAVA but I have also worked as a full stack developer in building all software layers e.g. application, cloud and edge software. Recently, I find myself interested in IoT solutions where billion things are connected and exchange information over internet for real time analytic and batch processing",
+    "summary": [
+      "Justin is currently solution architect of smart living and campus project for ASEAN region",
+      "Since 2008, he has been working internationally in various domains including telecomunication, automotive, thermos technologies, IoT and building technologies. People find him to be a challenge taker, perfection and result orientated team player and his passion towards new languages, frameworks and methodologies allows him to be a full stack IoT developer in building cutting edge software of applications, M2M, cloud and edge computing",
+      "Recently, he find himself interested in IoT solutions where billion things are connected over various protocols and exchange information in real time, high availability and scale manners"
+    ],
     "location": {
-      "address": "364 Cong Hoa St, Tan Binh",
+      "address": "364 Cong Hoa Street, Tan Binh District",
       "postalCode": "70000",
       "city": "Ho Chi Minh",
       "countryCode": "Vietnam",
-      "region": ""
+      "region": "Southern"
     },
-    "profiles": [
+    "socials": [
       {
         "network": "Linkedin",
         "username": "tuan3nguyen",
@@ -39,8 +43,21 @@
       "website": "https://www.bosch.com.vn/en/",
       "startDate": "2014-01-01",
       "endDate": "",
-      "summary": "I am currently working as Solution Architect in building Smart City/Campus solutions and provide Smart solutions Consultant for Asean market. ",
-      "highlights": []
+      "summary": "I currently working as Solution Architect in building Smart living/campus solutions and provide smart solutions consultant for ASEAN market",
+      "responsibilities": [
+        "Conduct site study, elicit customer jobs to understand their pain, gain and expectation",
+        "Create the technical proposal; estimate size, effort, resources and cost and support in commercial proposal to acquire new projects",
+        "Consult customers the potential technology solutions, setting up, baselining new standards, technical specifications to achive their operational excellence strategy",
+        "Design solutions and alternative solutions to customers as well as making decisions to deliver the right product to the right customer with the right technology stack and team",
+        "Mentor and coach the development team to accelerate the project execution by providing technical review, problem solving, competencies development and role model",
+        "Capture and share the project knowledge e.g. concept, system design, best practices and specifications",
+        "Explore futuristic technology trends in order to improve the existing products, develop competencies to acquire future project, innovate new business model idea and revenue stream",
+        "Establish project objectives, track, manage and ensure suitable actions are taken when the actual results deviate against the planned result",
+        "Advisory board for internal, external IoT activities",
+        "Carry DevOps activities for the self-hosted development data centers"
+      ],
+      "achievements": "Within 3 months timeline, implement and deploy 3 smart solutions for one of city in JB, Malaysia; Save 30% monthly energy cost of our office after develop new energy solutions; Achieve new baseline in automotive tools by using Java programming language to flash multiple ECU in real time; Successful ramp up 4 teams to totally 50+ members with different competencies; Optimize edge software to reduce up to 400% hardware cost; Become agile and CI/CD project in a quarter; Become microservice and containerized in 6 months; Become SPAs in 3 days; Achieving CMMi L3, ISO9000, ISO2K7 complied project",
+      "skills": "Linux, Docker, Microservices, Spring Cloud, Java, Android, Maven, Kafka, Spark, MongoDB, ReactJS, Angular, React Native, NodeJS, Python, Tensorflow, MQTT, RS232/RS485, CAN/LIN, Modbus, BACnet, NFC, BLE, Zigbee, LoRa, Agile, JIRA, Git, Confluence, Jenkins, Sonar, ALM, AutoSAR, RTOS, UML, SysML, AWS EC2"
     },
     {
       "company": "Atlassian",
@@ -49,7 +66,7 @@
       "startDate": "2015-07-01",
       "endDate": "2015-07-21",
       "summary": "JIRA for Software team",
-      "highlights": []
+      "responsibilities": []
     },
     {
       "company": "Robert Bosch Engineering Vietnam",
@@ -58,7 +75,16 @@
       "startDate": "2012-06-01",
       "endDate": "2014-01-01",
       "summary": "",
-      "highlights": []
+      "responsibilities": [
+        "Take full phases of product development from pre-investment to production, architect proposal, technical decision, design, implementation for Mobile Ticket Delivery Platform. Ability to scale up to 7 million transactions per days at Indian Railway, Brazil Railway",
+        "Implement Integration, testing, ;og Tool to communicate with various hardware devices i.e. Bosch ECU-OBD dongle using CAN protocol, Appliance, boiler using EMS protocol",
+        "Design, implement car tracking, driving performance, diagnostic using GPRS",
+        "Project coordinator between vietnam team and customer, stakeholders",
+        "Review the work product (requirements, design, code, etc) done by team members and peers",
+        "Carry quality assurance activities for peer projects"
+      ],
+      "achievements": "Save up to 20% review effort by implement the automation tools; build up competencies and be single contact point for thermos technology topic in Vietnam",
+      "skills": "Spring, Java, Maven, Ant, MySQL, Design Pattern, JNI, JNA, JPA, Hibernate, Eclipse, SVN, .NET, Tomcat, Servlets, EJB, JSF, TCP/IP, Eclipse RCP, OSGi, JBPM, UML, JSON, XML"
     },
     {
       "company": "Aricent Group",
@@ -67,7 +93,12 @@
       "startDate": "2011-11-01",
       "endDate": "2012-06-01",
       "summary": "",
-      "highlights": []
+      "responsibilities": [
+        "Technical proposal, design and implementation for Nokia Element Manager product (EM) to perform various kind of communication i.e. commissioning, transmission, test on different type of BTS devices: Flexi Edge, Flexi Multiradio",
+        "Review the work product (requirements, design, code, document) done by team members and peers"
+      ],
+      "achievements": "Very first time in Vietnam, take full responsibility in design and implement new product features",
+      "skills": "Java, Eclipse, Swing, TCP/IP, XML, UML, Clearcase"
     },
     {
       "company": "balticERP",
@@ -76,7 +107,12 @@
       "startDate": "2009-12-01",
       "endDate": "2011-11-01",
       "summary": "",
-      "highlights": []
+      "responsibilities": [
+        "Design and implement new features in ERP software",
+        "Analyze and provide the fixes for software bugs",
+        "Research and develop new SaaS CMS product"
+      ],
+      "skills": "Java, Eclipse, Swing, TCP/IP, SIP Phone, UML, AWS EC2, GWT"
     },
     {
       "company": "FPT Software",
@@ -85,20 +121,15 @@
       "startDate": "2008-06-01",
       "endDate": "2009-12-01",
       "summary": "",
-      "highlights": []
+      "responsibilities": [
+        "Implement changes request in software components",
+        "Fix bugs assigned by team lead"
+      ],
+      "skills": "Java, Eclipse, Swing, Struts"
     }
   ],
   "volunteer": [],
   "education": [
-    {
-      "institution": "University of Greenwich",
-      "area": "Computing",
-      "studyType": "Bachelor",
-      "startDate": "2010-06-01",
-      "endDate": "2012-06-01",
-      "gpa": "",
-      "courses": []
-    },
     {
       "institution": "University of Technical Education",
       "area": "Electrical Education",
@@ -107,9 +138,28 @@
       "endDate": "2008-12-01",
       "gpa": "",
       "courses": []
+    },
+    {
+      "institution": "University of Greenwich",
+      "area": "Computing",
+      "studyType": "Bachelor",
+      "startDate": "2010-06-01",
+      "endDate": "2012-06-01",
+      "gpa": "",
+      "courses": []
     }
   ],
   "certifications": [
+    {
+      "institution": "AWS Training and Certification",
+      "area": "AWS Cloud Practitioner Essentials",
+      "studyType": "Technical"
+    },
+    {
+      "institution": "Bosch",
+      "area": "Business Model and Value Proposition Practitioner",
+      "studyType": "Methodology"
+    },
     {
       "institution": "Mark Liew Coaching",
       "area": "Performance and Competence Management",
@@ -153,88 +203,58 @@
     {
       "institution": "Aptech Ltd.",
       "area": "Software Engineer",
-      "studyType": "Higher Diploma,"
+      "studyType": "Higher Diploma"
     },
     {
       "institution": "NIIT",
       "area": "3D Game Development",
-      "studyType": "Higher Diploma,"
+      "studyType": "Higher Diploma"
     }
   ],
   "awards": [],
   "publications": [],
   "skills": [
     {
-      "name": "Application",
+      "name": "Technical",
       "level": "Master",
       "keywords": [
-        "Android",
-        "Java",
-        "Python",
-        "ES6",
-        "ReactJS",
-        "ReactNative",
-        "Redux",
-        "Angular",
-        "NodeJS"
-      ]
-    },
-    {
-      "name": "Cloud",
-      "level": "Master",
-      "keywords": [
-        "Docker",
-        "Kubernetes",
-        "Microservices",
-        "Kafka",
-        "Spark",
-        "Tensorflow",
-        "MongoDB",
-        "MySQL",
-        "Spring",
-        "Spring Cloud"
-      ]
-    },
-    {
-      "name": "Protocol",
-      "level": "Master",
-      "keywords": ["MQTT", "TCP/IP", "Modbus", "Zigbee", "LoRa", "NFC", "BLE"]
-    },
-    {
-      "name": "Teamwork",
-      "level": "Master",
-      "keywords": [
-        "DevOps",
+        "System Architect",
+        "Software Architect",
+        "System Integration",
+        "Software Development",
+        "Microservices Architecture",
+        "Monolithic Architecture",
+        "Competencies Development",
+        "Project Acquisition",
+        "Technical Proposal",
+        "Machine Learning",
+        "ANPR",
+        "OCR",
+        "Project Management",
+        "Project Initiation",
+        "Project Execution",
+        "Project Operation",
+        "Consultant",
         "Agile",
+        "DevOps",
         "Scrum",
         "Kanban",
-        "Git",
-        "JIRA",
-        "Confluence",
-        "Jenkins",
-        "Sonar"
+        "CMMi Dev L3",
+        "ISO9001:2015",
+        "ISO27000"
       ]
     },
     {
-      "name": "Managerial",
+      "name": "Personal",
       "level": "Master",
       "keywords": [
-        "Planning",
-        "Cost Control",
-        "Quality Control",
-        "Coaching",
-        "Scheduling",
-        "Leadership",
+        "Communication",
+        "Presentation",
+        "Problem Solving",
+        "Analytical Thinking",
+        "Conceptual Thinking",
+        "Staffing",
         "Risk Management"
-      ]
-    },{
-      "name": "Machine Learning",
-      "level": "Master",
-      "keywords": [
-        "Prediction",
-        "Tensorflow",
-        "ANPR",
-        "Facial Recognition"
       ]
     }
   ],

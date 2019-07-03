@@ -33,14 +33,14 @@ const Profile = props => {
             className="fa fa-linkedin fa-2x"
             style={{ color: '#0077B5' }}
             target="_blank"
-            href={profileObj.profiles[0].url}
+            href={profileObj.socials[0].url}
           />
         </li>
         <li>
           <a
             className="fa fa-github fa-2x"
             target="_blank"
-            href={'https://github.com/' + profileObj.profiles[1].username}
+            href={'https://github.com/' + profileObj.socials[1].username}
           />
         </li>
         <li>
@@ -48,7 +48,7 @@ const Profile = props => {
             className="fa fa-youtube-play fa-2x"
             style={{ color: 'red' }}
             target="_blank"
-            href={profileObj.profiles[2].url}
+            href={profileObj.socials[2].url}
           />
         </li>
         <li>
