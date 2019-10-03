@@ -151,6 +151,21 @@
   ],
   "certifications": [
     {
+      "institution": "ACloudGuru",
+      "area": "AWS Certified SysOps Administrator Associate",
+      "studyType": "WBT"
+    },
+    {
+      "institution": "ACloudGuru",
+      "area": "AWS Certified Developer Associate",
+      "studyType": "WBT"
+    },
+    {
+      "institution": "ACloudGuru",
+      "area": "AWS Certified Solutions Architect Associate",
+      "studyType": "WBT"
+    },
+    {
       "institution": "AWS Training and Certification",
       "area": "AWS Cloud Practitioner Essentials",
       "studyType": "Technical"
