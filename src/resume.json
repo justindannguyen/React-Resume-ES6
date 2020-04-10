@@ -38,6 +38,21 @@
   },
   "work": [
     {
+      "company": "Argus",
+      "position": "Founder, Solution Architect",
+      "website": "https://www.bosch.com.vn/en/",
+      "startDate": "2019-05-01",
+      "endDate": "",
+      "summary": "Founder for Argus startup - a Bosch accelerator program batch 7",
+      "responsibilities": [
+        "Innovate new ideas with hypothesis and validate them with customers",
+        "Develop new substainable, profitable and profitable business model for Bosch",
+        "Create, deliver and capture values from customer"
+      ],
+      "achievements": "First MVP has been developed and demonstrated successfull within 2 weeks",
+      "skills": "Customer Interview, Business Model Canvas, Value Proposition Canvas, Lean Analytics, Video Streaming e.g. RTSP, FFMPEG, Docker, AWS, Microservices, Kafka, ReactJS, Python, Tensorflow"
+    },
+    {
       "company": "Robert Bosch Engineering Vietnam",
       "position": "Solution Architect",
       "website": "https://www.bosch.com.vn/en/",
